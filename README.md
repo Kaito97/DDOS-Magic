@@ -1,2 +1,1 @@
-# DDOS-Magic
-DDOS-Magic.py
+Hello hello 
